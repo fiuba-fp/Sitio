@@ -2,6 +2,8 @@
 
 Bienvenidos al sitio de la Catedra de Programacion Funcional de FIUBA.
 
+[Link a las clases practicas](https://fp-practicas.herokuapp.com/)
+
 ## Recursos Didacticos
 
 ### Clojure
